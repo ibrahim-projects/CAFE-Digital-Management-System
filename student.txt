@@ -1,0 +1,4 @@
+newStuden,;
+newStd,23;
+asd,23;
+,qwet,2456;

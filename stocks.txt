@@ -1,0 +1,35 @@
+Biryani,100,180
+chai,38,200
+Pulao,200,250
+Elaichi,75,180
+Samosa,120,220
+MiniSamosa,90,180
+DaalMash,80,200
+Aloo Paratha,60,250
+Doodh Patti,150,250
+Gulab Jamun,40,150
+Roti,35,120
+Pakora Chaat,70,180
+Mango Lassi,100,300
+Seekh Kebab,30,350
+Shahi Tukda,100,400
+Kebab Roll,35,400
+Ras Malai,100,300
+Kahwa,88,120
+Pista Kulfi,55,120
+haleem,30,300
+achar gosht,65,200
+Smoked Seekh Kebab,100,380
+Gajar Ka Halwa,50,200
+Jalebi,100,200
+Kashmiri Chai,85,180
+Aloo Tikki,100,300
+Hazelnut Chai,60,200
+Sheer Khurma,126,150
+malai boti,100,100
+Punjabi_Lassi,220,100
+Pepsi,81,100
+Sauce,305,28
+french fries,100,20
+slice juice,34,55
+jerman roll,54,222
