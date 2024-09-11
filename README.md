@@ -8,14 +8,23 @@ The Café Digital System (CDS) is a menu-driven project designed to assist the c
 The system is designed for:
 
 Café Administrators: To manage stock, track orders, handle complaints, and maintain user credentials.
+
 Café Employees: To process student/staff orders, manage transactions, and interact with the digital system.
+
 Students and Staff: To search items, place orders, submit complaints, and view notifications through the digital system.
+
 Key Features:
+
 Secure Login System: Admins and employees have unique credentials stored in a file for access control. Admins can manage and update user credentials.
+
 Stock Management: The system tracks item attributes such as name, quantity, and price, with options to add, remove, and update items.
+
 Threshold Notification: Items falling below a predefined quantity threshold are flagged, and the system prompts for stock replenishment.
+
 Search and Sort: Items can be searched and sorted based on name, price, or quantity using bubble sort.
+
 Sales Tracking and Reporting: Daily sales are tracked based on stock depletion, with reports showing bestselling items and employee performance.
+
 Complaint and Notification Handling: The system allows students to submit complaints, view café-related notifications, and check for ongoing promotions or offers.
 
 
