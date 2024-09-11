@@ -1,27 +1,15 @@
-//                              NAME: Muhammad Ibrahim
-//                              ROLL.NO:23i-2533
-//                             SECTION:CY-B
-
-
-
-
-//                              PF PROJECT-2023
-
 #include "header.h"
 using namespace std;
 
 int main()
 {
 
-//          INTRODUCTION
 
 
-     cout << "       NAME:           Muhammad Ibrahim        " << endl;
-     cout << "       ROLL.NUMBER:    23I-2533                " << endl;
-     cout << "       SECTION:        CY-B                    " << endl<<endl;
+
 
      cout << "************************************************************" << endl;
-     cout << "***************PF PROJECT: CDF System **********************"  << endl;
+     cout << "*************** CDF System **********************"  << endl;
      cout << "************************************************************" << endl<<endl<<endl;
 
 
